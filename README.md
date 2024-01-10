@@ -2,11 +2,11 @@
 
 ## Website Link
 
-[Visit Website](https://cvbhanuprakash.github.io/weather_app)
+[Visit Website](https://yasaswvene.github.io/Weather-Web-Application/)
 
 ## Website Preview
 
-![Weather Webpage](https://github.com/CVBhanuPrakash/portfolio/blob/main/images/portfolio/weather-delhi.png)
+![Weather Webpage](https://github.com/Yasaswvene/Weather-Web-Application/blob/main/page.png)
 
 ## Introduction
 
